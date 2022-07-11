@@ -1,1 +1,6 @@
 # Pewlett_Hackard_New
+_____________________________________________________________________________________________________________________________
+##The "Silver Tsunami" - Succession Planning for Pewlett-Hackard
+As with many companies - planning for the waves of retirements within the Baby-Boomer Generation is hitting home.  With the many changes in the economy, COVID and other health concerns, and corporate climate/cultural changes, these waves are starting to hit companies harder than retirements in the past. Pewlett-Hackard is among desiring to focus their efforts on understanding what are the critical knowledge and skill holders and how to cover/transition the organization without experiencing wave after wave of shock and realization when a key player chooses to retire.  
+In order to address these losses, this project has been commissioned to take the initial raw count assessments and work in a Postgres environment linking valuable information from 6 large databases of employees and employment information in order to make an informed succession plan including the development of a mentorship program where key/critical positions will have targeted mentorship in order to set up this new generation of leaders for success.
+
