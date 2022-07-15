@@ -15,5 +15,11 @@ ________________________________________________________________________________
 ## Analysis and Findings
 Unfortunately the Silver Tsunami is already in the immediate horizon. The preliminary analysis developed a table of potential retirees across the organization of 41,380 persons.  Fortunately for Pewlett Hackard and the houndreds of thousands of employees world-wide, the large numbers are still staggering.  After further refinement of the data, we can reduce the potential number to 33118 employees. 
 Further evaluation of the potential retirement population by investigating department and role/title implications, identifies the high potential risk areas.
-  - Top 3 departments with potential retirees include:
-    -   
+  - Top 5 departments with potential retirees include:
+    - Development         9281 employees
+    - Production          8174
+    - Sales               5860
+    - Customer Service    2597
+    - Research            2413
+
+   
