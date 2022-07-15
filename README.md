@@ -38,4 +38,7 @@ ________________________________________________________________________________
   - Employee_database_ challenge.sql code to queriy and establish the refined potential retiree database and the impact to the organization based on department, role/title within the organization, mentorship eligible potential employees, and additional analyses to futher support findigs above.
 - Data Folder - 
   - base6 .csv files - employees, dept_mgr, deptments, salaries.csv, departments.csv, dept_emp.csv, titles.csv
-  - Exports from sql queries for challenge - mentorship_eligibility.csv, retirement_titles, unique_titles.csv, retiring_title.csv 
+  - Exports from sql queries for challenge - mentorship_eligibility.csv, retirement_titles, unique_titles.csv, retiring_title.csv
+- Resources Folder with .png snips of code and outputs throughout the SQL code.
+
+________________________________________________________________________________________________________________
