@@ -42,3 +42,7 @@ ________________________________________________________________________________
 - Resources Folder with .png snips of code and outputs throughout the SQL code.
 
 ________________________________________________________________________________________________________________
+  Relationship Diagram    ![image](https://user-images.githubusercontent.com/106294465/179173779-abebd077-8fe7-49be-833a-1be86d23fcef.png)
+  
+
+
