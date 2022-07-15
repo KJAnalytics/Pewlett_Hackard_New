@@ -17,6 +17,14 @@ Further delving into the departments and roles within the organization, we find 
 - Development - 9281
 - Production - 8174
 - Sales - 5860 
+If we look further into the data, the critical roles/skill sets within the organization that will be hit hardest with be in the senior Engineering and Senior staff levels with just over 55,000 positions that could potentially retire. When junior engineering and staff levels are added, levels are added nearly 75% of the potential retirements could come from this population.
+Next a drill down was conducted focusing on potential retirees born in 1965, the end of the baby boom.  This group was targeted for inclusion in a mentorship program focusing transitioning skills and knowledge to the current employees not retiring and needing to step up and fill the gaps that would be left.  This analysis resulted in a preliminary list of 1549 individualsin the senior Staff/Engineering and staff/engineering ranks primairly which is consistent with the projected gaps as well.
+Finally - looking at next steps.  An additional iteration was conducted, repeating the analysis package for a larger population.  This time the targeted retiree population was Boomers born between 1952 to 1965. The population was selected to take a look at the big picture.  What does the total impact of the Boomer generation look like going forward?  
+
+## Key Takaways
+At we investigate and attempt to predict retirement trends, it is important to recognize that these types of analysis can provide a snapshot into the potential retirements and gaps that potentially could occur.  This type of analysis is utilized by many as the first line predictors along with economic and health care costs for potential gap years in coverages or delays in income to meet target ages for participation in pension, medicare, and other retirement income streams/restrictions.  The other context to consider is personal preferences.  Each person is an individual, and while completing and analysis such as this, we need to continue to have our aging/retiring population feel valued for their continued service and willingness to stay on or support the organization through mentorship.
+From the analysis side - linkages through the tables and having a good understanding of primary and foreign keys is absolutely critical and the Database maping process is a key tool for keeping the relationships between the data in mind.  It's very easy to go down a rabit hole, believe you have the solution and when checking the data, find surprising slight shifts just in the ordering and combining of the data.
+_____________________________________________________________________________________________________________________________
 
 
 
