@@ -12,5 +12,11 @@ This project is deigned to link 6 large HR and Employee databases via PGAdmin an
 - Further refine the dataset to focus on employees born in 1965 (the end of the ba by boom) to develop a tabular listing of potential employees for the mentorship program development and execution.  Utilizing this group to pay it back to the organization and focus on the future success and development of employees to fill our critical skill/knowledge spaces within the organization.
 _____________________________________________________________________________________________________________________________
 ##Analysis and Findings
-Unfortunately the Retirement was is already in the immediate horizon. The preliminary analysis developed a table of potential retirees across the organization of 41,380 persons.  Fortunately for Pewlett Hackard and the houndreds of thousands of employees world-wide, the large numbers are still staggering.  After further refinement of the data, we can reduce the potential number to 33118 employees.  See Notes Below.
+Unfortunately the Retirement wave is already in the immediate horizon. Preliminary analysis developed a table of potential retirees across the organization of 41,380 persons.  Unfortunately for Pewlett Hackard and the houndreds of thousands of employees world-wide, the large numbers are still staggering.  After further refinement of the data, we can reduce the potential number to 33118 employees.  See Notes and excerpts below.
+Further delving into the departments and roles within the organization, we find 9 total departments that will potentially be impacted by High retirements.  The top 3 are:
+- Development - 9281
+- Production - 8174
+- Sales - 5860 
+
+
 
