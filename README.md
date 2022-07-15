@@ -6,9 +6,14 @@ In order to address these potential losses, the Silver Tsunami project has been 
 ______________________________________________________________________________________________________________________________
 ## Project Overview
 This project is designed to link 6 large HR and Employee databases via PGAdmin and SQL in order to provide the following:
+- A Databse relationshp diagram - planning tool to layout the relationships between the imported tables and define primary and foreign keys for the data analysis.
 - A large Retirement database linking critical employee measures: employee_no, Titles, Names, Dates of employment, and Titles/Roles within the organization for all employees.
 - Through refinement and focus on the active employee population born between 1952-1955, identify the immediate impacts to the company and short term risk to the organization. 
 - Provide targeted outputs via tables linking the retirement populations to department level and Title/role impacts.
 - Further refine the dataset to focus on employees born in 1965 (the end of the baby boom) to develop a tabular listing of potential employees for the mentorship program development and execution.  Utilizing this group of retiring employees "to pay it back" to the organization and focus on development of current employees to fill critical skill/knowledge spaces within the organization by providing this mentorship to the next generation of leaders. 
-
-##Analysis and Findings
+______________________________________________________________________________________________________________________________
+## Analysis and Findings
+Unfortunately the Silver Tsunami is already in the immediate horizon. The preliminary analysis developed a table of potential retirees across the organization of 41,380 persons.  Fortunately for Pewlett Hackard and the houndreds of thousands of employees world-wide, the large numbers are still staggering.  After further refinement of the data, we can reduce the potential number to 33118 employees. 
+Further evaluation of the potential retirement population by investigating department and role/title implications, identifies the high potential risk areas.
+  - Top 3 departments with potential retirees include:
+    -   
