@@ -7,7 +7,7 @@ In order to address these potential losses, the Silver Tsunami project has been 
 ______________________________________________________________________________________________________________________________
 ## Project Overview
 This project is designed to link 6 large HR and Employee databases via PGAdmin and SQL in order to provide the following:
-- A Databse relationshp diagram - planning tool to layout the relationships between the imported tables and define primary and foreign keys for the data analysis.
+- An Entity relationshp diagram - planning tool to layout the relationships between the imported tables and define primary and foreign keys for the data analysis.
 - A large Retirement database linking critical employee measures: employee_no, Titles, Names, Dates of employment, and Titles/Roles within the organization for all employees.
 - Through refinement and focus on the active employee population born between 1952-1955, identify the immediate impacts to the company and short term risk to the organization. 
 - Provide targeted outputs via tables linking the retirement populations to department level and Title/role impacts.
@@ -30,3 +30,12 @@ Further evaluation of the potential retirement population by investigating depar
 
 Finally - a additional evaluation of the retirement database was conducted increasing the birth years from 1952-1965 (the last 13 years of the boom)  Identical analyses were conducted and the results are staggering.  443308 employees are in the database ranks after refining the data 240,124 employees in that age bracket are current and eligible for retirement in the longer term and would potentially be spread across a longer number of years and be more of a 5-10 year impact on the orgainzation.
 ________________________________________________________________________________________________________________
+## Resources and supporting documentation:
+- DBD-PewlettHackard - Relationship diagram for the project
+- Queries Folder - SQL code
+  -  schema - code for establishing data tables and primary & foreign keys and importing of .csv data
+  -  queries - code for assessing table joins to identify and query employee data from the schema.  
+  - Employee_database_ challenge.sql code to queriy and establish the refined potential retiree database and the impact to the organization based on department, role/title within the organization, mentorship eligible potential employees, and additional analyses to futher support findigs above.
+- Data Folder - 
+  - base6 .csv files - employees, dept_mgr, deptments, salaries.csv, departments.csv, dept_emp.csv, titles.csv
+  - Exports from sql queries for challenge - mentorship_eligibility.csv, retirement_titles, unique_titles.csv, retiring_title.csv 
